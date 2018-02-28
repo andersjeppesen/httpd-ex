@@ -1,0 +1,49 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+
+<head>
+
+<title>Aze</title>
+<link rel="stylesheet" type="text/css" href="linker/hyper.css">
+<base target="_blank">
+<meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
+<meta http-equiv="Pragma" content="no-cache" />
+<META HTTP-EQUIV="refresh" CONTENT="900">
+</head>
+
+<body bgcolor=grey>
+<p>
+    <a href="http://www.aftenposten.no">Aftenposten</a> | <a href="http://www.vg.no">VG</a> | <a href="http://www.sol.no">Sol</a> 
+  </p>
+<p>
+<a href="http://www.yr.no/sted/Norge/Oslo/Oslo/Hauketo_skole/">Yr</a> | <a href="http://www.dmi.dk/dmi/index/danmark.htm">DMI</a> | <a href="http://www.myforecast.com/bin/expanded_forecast_15day.m?city=71434&metric=true">15-dagers</a> | <a href="https://my.netatmo.com/app/station">Netatmo</a>
+
+
+  </p>
+
+<p><a href="https://www.gjensidige.no/eai/op?TAM_OP=login&ERROR_CODE=0x00000000&URL=%2F1%2FDin%2Bside&AUTHNLEVEL=">Gjensidige</a>
+  </p>
+
+<p><a href="http://www.strava.com">Strava</a> | <a href="http://connect.garmin.com/dashboard">Garmin</a> | <a href="https://flow.polar.com/diary">Polar Flow</a> | <a href="http://www.endomondo.com">Endomondo</a> </p> 
+  <a href="http://rittranking.merida.no/person/95027/view">Rittranking</a> | <a href="http://www.terrengsykkel.no/ubb/">Terrengsykkel</a></p>
+
+<p><a href="http://www.dn.no">DN</a> | <a href="http://www.digi.no">digi</a>
+  </p>
+
+<p><a href="http://www.jp.dk">Jyllandsposten</a> | 
+<a href="http://www.dr.dk">DR</a>
+  </p>
+
+
+<p><a href="http://webmail.domeneshop.no/">Webmail</a> | <a href="http://exchange.basefarm.com">OWA</a></p>
+<br>
+<a href="netatmo/statistikk/"><img src='bilder/status.jpg'></a>
+<br>
+<iframe src='/netatmo/index.php?mo=TemperatureMin,TemperatureMax&do=Pressure,Humidity,Noise,CO2' frameborder='0' style='width:580px; height:230px;' scrolling='no'></iframe><br>
+<script type="text/javascript" src="http://www.yr.no/sted/Norge/Oslo/Oslo/Hauketo_skole/ekstern_boks_time_for_time.js"></script><noscript><a href="http://www.yr.no/sted/Norge/Oslo/Oslo/Hauketo_skole/">yr.no: Værvarsel for Hauketo skole</a></noscript>
+<br>
+<p>
+
+</body>
+
+</html>
